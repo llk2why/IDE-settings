@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=torch",
+        "--ignored-modules=torch", 
+        "--ignored-classes=torch"
+    ]
+    
+}
